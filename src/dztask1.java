@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 */
 
-public class Main {
+public class dztask1 {
     public static void main(String[] args) {
         System.out.print("Введите положительное число n: ");
         Scanner sc = new Scanner(System.in);
